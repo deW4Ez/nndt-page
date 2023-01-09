@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nndt-page/static/css/main.893f9b4c.css",
+    "main.js": "/nndt-page/static/js/main.5afc7e70.js",
+    "static/media/comparison_main.png": "/nndt-page/static/media/comparison_main.6ca34b3e67b218898568.png",
+    "static/media/comparison_1.png": "/nndt-page/static/media/comparison_1.579a3c2679b328f2f747.png",
+    "static/media/sdf_multiple_files.png": "/nndt-page/static/media/sdf_multiple_files.aa602e373cdd83cbd719.png",
+    "static/media/mesh_segmentation.png": "/nndt-page/static/media/mesh_segmentation.00132011e0700c36d3b8.png",
+    "index.html": "/nndt-page/index.html",
+    "main.893f9b4c.css.map": "/nndt-page/static/css/main.893f9b4c.css.map",
+    "main.5afc7e70.js.map": "/nndt-page/static/js/main.5afc7e70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893f9b4c.css",
+    "static/js/main.5afc7e70.js"
+  ]
+}
